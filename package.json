@@ -1,0 +1,26 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "A simple http-node server setup using npm and its fs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keolasin/simple-http-node-server.git"
+  },
+  "keywords": [
+    "http",
+    "node",
+    "server",
+    "fs",
+    "npm"
+  ],
+  "author": "Matthew Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keolasin/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/keolasin/simple-http-node-server#readme"
+}
