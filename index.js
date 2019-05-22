@@ -1,4 +1,5 @@
 const http = require('http');
+const fs = require('fs');
 const port = 3000;
 
 const requestHandler = (request, response) => {
